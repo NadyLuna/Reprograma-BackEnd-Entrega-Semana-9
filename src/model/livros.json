@@ -1,0 +1,54 @@
+[
+    {
+    "id": 2,
+    "nomeDoLivro": "Assombração do Recife Velho",
+    "editora": "Global Editora",
+    "lancamento": 1974,
+    "autor(es)": "Gilberto Freyre",
+    "genero": ["Quadrinhos", "Romance gráfico"]
+    },
+    {
+    "id": 3,
+    "nomeDoLivro": "Morte e Vida Severina",
+    "editora": "Tuca",
+    "lancamento": 1955,
+    "genero": "poema"
+    },
+    {
+    "id": 4,
+    "nomeDoLivro": "Lisbela e o Prisioneiro",
+    "editora": "Scipione",
+    "lancamento": 1964,
+    "genero": "Drama"
+    },
+    {
+    "id": 5,
+    "nomeDoLivro": "O Cabeleira: História pernambucana",
+    "editora": "Independently published",
+    "lancamento": 1876,
+    "genero": "Romance"
+    },
+    {
+    "id": 6,
+    "nomeDoLivro": "Fernando de Noronha: lendas e fatos pitorescos",
+    "editora": "Projeto Esmeralda/UFPE/TFFN",
+    "lancamento": 1987,
+    "genero": ""
+    },
+
+    {
+    "id": 7,
+    "nomeDoLivro": "A cozinha pernambucana em Gilberto Freyre: um encontro entre povos e culturas",
+    "editora": "Biblioteca 24 Horas",
+    "lancamento": 2013,
+    "autor(es)": "Raul Lody",
+    "genero": ""
+    },  
+    {
+    "id": 8,
+    "nomeDoLivro": "ESCRITORES PERNAMBUCANOS DO SÉCULO XIX - TOMO 1",
+    "editora": "Cepe",
+    "lancamento": 2010,
+    "genero": ["literatura", "ensaio"]
+    }
+]

@@ -36,10 +36,16 @@ res.status(200).send(livros)
 };
 
 const getLivrosByGenero = (req,res) => {
-    const genero = req.params.genero
-    const livroFiltradoGenero = livros.filter((livro) => livro.genero == genero)
-    res.status(200).send(livroFiltradoGenero)
+    const genero = req.query.genero
+    if (genero) {
+        const livroByGenre = livros.filter(livro => livro.genero.includes(genero))
+        res.status(200).send(livroByGenre)
+    } else{
+        res.status(200).send(livros)
+    }
+    
 }
+
 
 const getAllNomeLivro = (req, res) => {
     const nomeLivro = livros.map((livro) => livro.nomeDoLivro)

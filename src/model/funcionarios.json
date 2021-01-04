@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "nome": "Pedro Henrique",
+        "dataDeNascimento": "25/01/1982",
+        "cargo": "gerente"
+    }, {
+        "id": 2,
+        "nome": "Carlos",
+        "dataDeNascimento": "04/03/1994",
+        "cargo": "vendedor"
+    }, {
+        "id": 3,
+        "nome": "Zenóbio",
+        "dataDeNascimento": "28/02/2002",
+        "cargo": "vendedor"
+    }, {
+        "id": 4,
+        "nome": "Gustavo",
+        "dataDeNascimento": "13/01/1999",
+        "cargo": "caixa"
+    }, {
+        "id": 5,
+        "nome": "Kelícia",
+        "dataDeNascimento": "28/11/1995",
+        "cargo": "caixa"
+    }, {
+        "id": 6,
+        "nome": "Sevirina",
+        "dataDeNascimento": "28/11/2001",
+        "cargo": "recepcionista"
+    }, {
+        "id": 7,
+        "nome": "Nady Luna",
+        "dataDeNascimento": "05/09/1969",
+        "cargo": "gerente financeiro"
+    }, {
+        "id": 8,
+        "nome": "Rafael",
+        "dataDeNascimento": "10/01/1992",
+        "cargo": "caixa"
+    }, {
+        "id": 9,
+        "nome": "Roberta",
+        "dataDeNascimento": "15/03/1990",
+        "cargo": "vendedora"
+    }, {
+        "id": 10,
+        "nome": "Tais",
+        "dataDeNascimento": "29/05/1992",
+        "cargo": "estoquista"
+    }
+]
